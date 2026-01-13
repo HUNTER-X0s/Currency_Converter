@@ -1,0 +1,3 @@
+# Currency_Converter
+Title: 💸 Real-Time Currency Converter...
+A responsive, web-based application designed to convert between global currencies using live exchange rates. ✨ Features: Real-time conversion for 150+ currencies. Clean, user-friendly interface. Instant swapping functionality. Built with HTML, CSS, and JavaScript. Powered by ExchangeRate-API.
